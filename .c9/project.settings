@@ -1,5 +1,6 @@
 {
     "ace": {
+        "@tabSize": 4,
         "@useSoftTabs": false
     },
     "extensions": {
