@@ -1,7 +1,5 @@
 @extends('layouts.app')
 
-@extends('layouts.app')
-
 @section('content')
 <h1 class='pagetitle'>レビュー投稿ページ</h1>
 <div class="row justify-content-center container">
